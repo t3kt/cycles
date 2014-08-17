@@ -15,6 +15,7 @@ post_feedback_twist	.5	codev2	s32	1	1	feedback twist
 time_rate	.5	codev2	s4		1	time rate
 cam_fovamount	.5	codev2	s6		1	cam fov amount
 cam_position	.3	codev2	s10		1	cam position
+cam_spinrate	.2	codev2	s8	1	1	cam spin rate
 path_opacitya	.6	codev2	s22		1	path A opacity
 path_opacityb	.4	codev2	s30		1	path B opacity
 path_opacityavg	.8	codev2	s26		1	path avg opacity
