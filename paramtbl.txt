@@ -22,3 +22,4 @@ path_opacityavg	.8	codev2	s26		1	path avg opacity
 path_frequency	.2	codev2	s2		1	path frequency
 path_twist_rate	.6	codev2	s14		1	path twist rate
 path_twist_amount	.4	codev2	s18		1	path twist amount
+path_merge	0	codev2	s3		1	path merge
